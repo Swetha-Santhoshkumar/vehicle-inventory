@@ -17,7 +17,7 @@ const NaviBarVehicle = () => {
                             <a class="nav-link" href="#">SEARCH VEHICLE</a>
                             <a class="nav-link" href="#">DELETE VEHICLE</a>
                             <a class="nav-link" href="#">VIEW VEHICLE</a>
-                            <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+                            
                         </div>
                     </div>
                 </div>

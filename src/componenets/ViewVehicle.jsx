@@ -9,7 +9,7 @@ const ViewVehicle = () => {
             <table class="table">
                 <thead>
                     <tr>
-                        <th scope="col">#</th>
+                        <th scope="col">sI.no</th>
                         <th scope="col">Vehicle name</th>
                         <th scope="col">Brand</th>
                         <th scope="col">Fule</th>
